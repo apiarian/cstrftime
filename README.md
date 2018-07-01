@@ -1,3 +1,5 @@
+*NOTE:* this repo is here because I forked the original in order to write some benchmarks and tests. That pull request and issue is still open as of July 1, 2018, and the code is pretty broken and slow. Please don't use this.
+
 # ⌛️cstrftime [![GoDoc](https://godoc.org/github.com/cooldrip/cstrftime?status.svg)](https://godoc.org/github.com/cooldrip/cstrftime) [![codecov](https://codecov.io/gh/cooldrip/cstrftime/branch/master/graph/badge.svg)](https://codecov.io/gh/cooldrip/cstrftime) [![Build Status](https://travis-ci.org/cooldrip/cstrftime.svg?branch=master)](https://travis-ci.org/cooldrip/cstrftime)
 
 The missing strftime in Go.
